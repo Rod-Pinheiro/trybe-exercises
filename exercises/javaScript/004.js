@@ -1,4 +1,3 @@
-let a = 3;
 function avaliaSinal(a) {
   if (a > 0) {
     return "positive";
